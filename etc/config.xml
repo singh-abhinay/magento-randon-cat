@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <randomcat>
+            <general>
+                <enable>1</enable>
+                <api_url_key>5up3rc0nf1d3n714llp455w0rdf0rc47s</api_url_key>
+                <api_url>https://randomcatapi.commerce.lingaro.dev/</api_url>
+            </general>
+        </randomcat>
+    </default>
+</config>
