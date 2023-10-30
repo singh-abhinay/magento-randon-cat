@@ -2,10 +2,7 @@
 Overview
 --------
 
-In the repository you will find an almost empty Magento 2 module called Abhinay_RandomCat.
-Your task will be to fill in this module with code to achieve the following feature:
-
-Change all product photos in catalog listing (and only there) to random cat photos using **Random Cat API**.
+In the repository you will find Magento 2 module called Abhinay_RandomCat.
 
 ### Random Cat API
 
